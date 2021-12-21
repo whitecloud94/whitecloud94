@@ -14,19 +14,24 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=white"/> 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 
+#
 *****
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Conbiction&layout=compact)](https://github.com/Conbiction/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitecloud94&layout=compact&theme=dark)](https://github.com/whitecloud94/github-readme-stats)
 
 *****
 
  
-😸Contact Point😸
-
-Email : ajemfld1@gmail.com<br>
-Mobile : 010-9706-8608
+😸Contact Point😸 <br>
+<a href="mailto:ajemfld1@gmail.com">
+<img
+src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
   
 *****
+
+  
