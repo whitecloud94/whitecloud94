@@ -1,6 +1,6 @@
 <div align="center">
   
- 뭔가를 개발한지 2년이 되어가는 중..👾
+4년차 코더
 
 </div>
 <div align="center">
